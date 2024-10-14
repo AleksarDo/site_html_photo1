@@ -31,7 +31,7 @@ a:focus {
 	padding: 10px;
     background: none;
     color: rgb(32, 4, 68);
-    font-size: 2rem;
+    font-size: 4rem;
     margin-right: 15px;
 }
 
@@ -145,7 +145,7 @@ button:focus { outline: none; }
 .cd-slider-nav .nav-item:nth-of-type(1).selected .nav-link,
 .cd-slider-nav .nav-item:nth-of-type(1) .nav-link:hover,
 .cd-slider-nav .nav-item:nth-of-type(1) .nav-link:focus {	
-	background-color: #15303A;
+	background-color: #38b6e6;
 }
 
 .cd-slider-nav .nav-item:nth-of-type(2).selected .nav-link,
