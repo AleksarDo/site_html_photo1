@@ -112,14 +112,17 @@ button:focus { outline: none; }
 
 .cd-slider-nav a,
 .navbar-nav .nav-link {
+	font-family: "M PLUS 1p", sans-serif;
+	font-weight: 300;
+	font-style: normal;
 	background-color: transparent;
-	color: black;
+	color: #01351f;
     display: table-cell;
     font-weight: 00;
-    font-size: 1em;
+    font-size: 2cm;
 	vertical-align: middle;
-    width: 100px;
-    height: 40px;
+    width: 50px;
+    height: 50px;
 }
 
 .cd-slider-nav .nav-item.selected .nav-link,
@@ -647,6 +650,18 @@ figure.effect-bubba:hover p {
 	padding-right: 10px;
 }
 
+
+.autor_img {
+	/*max-width: 100px;*/
+	width: 20%;
+	height: auto;
+	border: 3px solid rgb(187, 108, 71);
+	margin: 0 ;
+}
+
+.row {
+	margin-top: 30px;
+}
 /*.tm-3-col-container {
 	margin-left: 0;
 	margin-right: 0;
@@ -877,3 +892,5 @@ figure.effect-bubba:hover p {
 	.tm-2-col-textbox-2 { margin-right: 15px; }
 	#google-map { height: 520px; }
 }
+
+
